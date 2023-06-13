@@ -7,9 +7,9 @@ The IPython Notebook `Problem_1.ipynb` will walk you through implementing the ba
 ### CNNs for Image Classification
 The IPython Notebook `Problem_2.ipynb` will walk you through implementing a convolutional neural network (CNN) from scratch and using it for image classification.
 
-## VAE_GNN Folder
+## VAE_GAN Folder
 ### VAE for image creation
 The IPython Notebook `Problem_1.ipynb` will walk you through implementing the Variational Autoencoder.
 
-### GNN for image creation
-The IPython Notebook `Problem_2.ipynb` will walk you through implementing a Generative Neural Network.
+### GAN for image creation
+The IPython Notebook `Problem_2.ipynb` will walk you through implementing a Generative Adversarial Network.
